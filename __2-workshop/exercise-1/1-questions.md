@@ -19,6 +19,11 @@ c) [False] `<ul></ul><img/><ol><li>one</li></ol>`
 ## Q2 - What is a screenreader and why should we care about them?
   A screenreader is a tool for users with disabilities with reading. Users can simply touch the secreen on their device and the content of the application or the website will be read by the voice assistent.( Like sire, Alexa.) Its a must have for every device now days that provides accibility of the application to their special users. 
 
+etc et cet cet 
+
+
+
+
 _Feel free to use the powers of Google here, but please provide link(s) to your source(s)_
 
 ## Q3 - For each of the following cases, which tags will be needed?
